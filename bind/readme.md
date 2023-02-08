@@ -1,0 +1,1 @@
+- use 'lsof -i -Pn' to check the TCP connection-info of this host
